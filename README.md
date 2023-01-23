@@ -1,2 +1,2 @@
 # matematica-financeira
-Scripts para cáculos financeiros
+Scripts para cálculos financeiros
